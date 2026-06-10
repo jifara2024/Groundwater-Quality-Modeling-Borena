@@ -44,6 +44,29 @@ Borena Zone, Oromia Region, Ethiopia
 - SAGA GIS
 - SPSS
 - Python
+  # Study Area
+
+![Study Area](LSA_BorenaWQM.jpg)
+
+# Precipitation Map
+
+![Precipitation](Precipitation map of the study area.jpg)
+
+# Geological Map
+
+![Geology](Geology_map.jpg)
+
+# Land Cover Map
+
+![Land Cover](LC_map.jpg)
+
+# Electrical Conductivity Distribution
+
+![EC](EC_map.jpg)
+
+# Total Dissolved Solids Distribution
+
+![TDS](TDS_map.jpg)
 
 ## Key Result
 
