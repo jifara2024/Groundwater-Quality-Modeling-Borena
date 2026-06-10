@@ -102,12 +102,15 @@ EC = 246.56 + 1.32(TDS)
 - Environmental Data Science
 
     
-## Author
+Author
 
 Jifara Dabessa
 
-MSc Remote Sensing and Geoinformatics
-Addis Ababa University
+MSc in Remote Sensing and Geoinformatics
+BSc in Computer Science
+Advanced Diploma in Water Resources Engineering
+
+Ministry of Water and Energy, Ethiopia
 
 ## Full Report
 
