@@ -55,7 +55,7 @@ R² = 0.977
 
 ## Author
 
-Firehiwot Zewdie
+Jifara Dabessa
 
 MSc Remote Sensing and Geoinformatics
 Addis Ababa University
