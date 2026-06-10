@@ -86,9 +86,31 @@ EC = 246.56 + 1.32(TDS)
   - Yabello
   - Moyale
   - Miyo
+
+## Technical Skills Demonstrated
+
+- GIS Analysis
+- Geostatistics
+- Ordinary Kriging
+- Spatial Analysis
+- Remote Sensing
+- Groundwater Modeling
+- Water Quality Assessment
+- SPSS
+- ArcGIS
+- Python
+- Environmental Data Science
+
+    
 ## Author
 
 Jifara Dabessa
 
 MSc Remote Sensing and Geoinformatics
 Addis Ababa University
+
+## Full Report
+
+The complete research report is available:
+
+[BorenaWQ_subsurfaceModelling.pdf](BorenaWQ_subsurfaceModelling.pdf)
