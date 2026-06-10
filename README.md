@@ -106,9 +106,12 @@ Author
 
 Jifara Dabessa
 
-MSc in Remote Sensing and Geoinformatics
+MSc in Remote Sensing and Geoinformatics 
+
 BSc in Computer Science
+
 Advanced Diploma in Water Resources Engineering
+
 
 Ministry of Water and Energy, Ethiopia
 
