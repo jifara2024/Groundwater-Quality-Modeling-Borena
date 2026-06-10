@@ -68,14 +68,24 @@ Borena Zone, Oromia Region, Ethiopia
 
 ![TDS](TDS_map.jpg)
 
-## Key Result
+## Key Findings
 
-Strong correlation between Electrical Conductivity (EC) and Total Dissolved Solids (TDS):
+- Groundwater quality assessed from 118 samples.
+- Electrical Conductivity (EC) and Total Dissolved Solids (TDS) showed strong correlation.
+- Correlation coefficient (R²) = 0.977.
+- Relationship:
 
 EC = 246.56 + 1.32(TDS)
 
-R² = 0.977
+- High salinity hotspots identified in:
+  - Teltelle
+  - Dire
+  - Arero
 
+- Low salinity groundwater observed in:
+  - Yabello
+  - Moyale
+  - Miyo
 ## Author
 
 Jifara Dabessa
